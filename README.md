@@ -3,7 +3,6 @@ This set of tools created with Windows' Power Automate allows you to run your ow
   
   ```diff
 + NOTICE: TOOLS ARE STILL IN DEVELOPMENT
-+ NOTICE: FIRST SET OF TOOLS WILL RELEASE ON 22/09/2022
 ```
   
 ## Benefits of these Tools  
