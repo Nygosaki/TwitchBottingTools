@@ -12,6 +12,7 @@ This set of tools created with Windows' Power Automate allows you to run your ow
 - You don't need to pay for a captcha-solving service!
 - Wide Array of tools!  
 - Uses NordVPN to skip limits (read more below)!
+- Easy to use
   
 ## Disadvantages of these Tools
 - A little slow (depending on your system)
@@ -36,7 +37,7 @@ This set of tools created with Windows' Power Automate allows you to run your ow
 Delete all "CMD Session" actions, such as "Open CMD Session", "Close CMD Sesion", "Write to CMD Session".
 ![image](https://user-images.githubusercontent.com/63132234/191665150-9d78274b-7dff-41c4-a60c-1f2a00cdbb2b.png)
   
-## Intial Setup
+## Intial Power Automate Setup
 #### If you DO NOT have fully updated windows 11, do the following
 Note: If you have Windows 11 with the newest feature update installed, you can skip this.  
 1. Go to the Microsoft Store  
@@ -63,4 +64,6 @@ Note: Everyone has to do this.
 7. Download the Browser Extension by pressing `Get` & `Add Extension`  
 ![image](https://user-images.githubusercontent.com/63132234/191667363-0c975d3b-aa20-4615-816a-20a750da1026.png)  
 ![image](https://user-images.githubusercontent.com/63132234/191667435-8aadf543-ecdf-4cab-9947-fcc60a4d1680.png)  
-You are now finished with the initially setup of Power Automate. You can now close the window, which automatically deletes the flow.
+You are now finished with the initially setup of Power Automate. You can now close the window, which automatically deletes the flow.  
+  
+## Initial File Setup
