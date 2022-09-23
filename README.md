@@ -93,4 +93,4 @@ Assuming that you already went through the files (as explained above) and entere
 2. Press the Play button
 
 # Before you use the botting tools, read this.
-Before you start using the viewer and folower botting tools, you first need to generate bot accounts via the `Twitch Generate Accounts` tool and verify those accounts via the `Twitch Check Accounts` too. If you do not do this ***THE OTHER TOOLS WILL NOT WORK.***
+Before you start using the viewer and folower botting tools, you first need to generate bot accounts via the `Twitch Generate Accounts` tool and verify those accounts via the `Twitch Check Accounts` tool. You have to let these tools finish completely even if they seem like they are strugling. If you do not do this ***THE OTHER TOOLS WILL NOT WORK.***
