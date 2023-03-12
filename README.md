@@ -1,5 +1,5 @@
 # TwitchBotTools
-This set of tools created with Windows' Power Automate allows you to run your own Twitch Bots without any captchas for free. This includes Bot Creation, Automatic Bot Following, Botting live & vod views, and more!  
+A fun little project to see how easy it is to bot Twitch views & followers without writing any actual code.
   
   ```diff
 + NOTICE: This is my passion project with the intent to show how easy it is to create and control Twitch viewer/follower Bots. Using this tool is not allowed under any circumstances and might lead to a BAN. I am not responsible for your use of the tool and the possible consequences.
